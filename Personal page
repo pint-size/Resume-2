@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Meredith Bristol - About Me</title>
+<link rel="stylesheet" type="text/css" href="my lovely css.css">
+</head>
+
+<body>
+
+<div class="mainbody">
+
+<ul class="navbar">
+  <a href="contact.html" class="block1">Contact Me</a>
+  <a href="education.html" class="block2">Education</a>
+  <a href="resumewebsite.html" class="block3">Employment History</a>
+  <a href="personal.html" class="block4">Personal Life</a>
+</ul>
+
+<img src="http://i.imgur.com/x3Nd4FF.jpg?1" alt="Selfie!" class="image" width="20%">
+
+<div style="word-wrap: break-word; width: 1000px" class="description">
+<p>Meredith is a 20-something aspiring web developer. In her free time, she attends school at Saint Paul College, bothers her two cats
+(Bellatrix & Rosemary), & enjoys a variety of crafty things. Craft brews to Pinterest crafts, she'll try anything once! And probably regret it later...
+<p>You'll most often find Meredith at home, watching Netflix and baking, or perhaps, out with friends and acquaintances! Or you won't find her at all. You stalker.
+</div>
+</div>
+
+<footer>
+<p>Created by Meredith Bristol</br>
+November 1st, 2017</p>
+</footer>
+
+</body>
+
+</html>
